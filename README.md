@@ -18,7 +18,9 @@ Phone book is represented by a table in the [Firebird](http://www.firebirdsql.or
 Access to the Web interface of phone uses Chromium Embedded Framework for Free Pascal created by dliw [fpCEF3](https://github.com/dliw/fpCEF3).
 
 
-If you want to try this program you will need CEF libraries + subprocess.exe extracted to the main directory.
+If you want to try to compile this program you will need CEF libraries + subprocess.exe extracted to the main directory.
 http://uloz.to/xYej2VBz/cef-3-2454-1342-win32-subprocess-rar
+
+For bin installer please see: https://github.com/zbyna/vcfToGigaset/releases
 
 Program was tested in win7 64bit. with FreePascal  3.1.1  SVN Rev 31752 32bit and  CodeTyphon 5.5
